@@ -165,7 +165,7 @@ paginate: 10
 paginate_path: /page:num/
 
 # The base URL of your site
-baseurl: "https://yduke.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
